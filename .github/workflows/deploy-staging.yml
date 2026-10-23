@@ -11,6 +11,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
 
+  # Change user name
   DOCKER_IMAGE_NAME: essebas-azure-ttt
   AZURE_WEBAPP_NAME: essebas-ttt-app
 
